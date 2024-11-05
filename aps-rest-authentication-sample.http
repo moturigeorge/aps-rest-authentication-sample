@@ -1,0 +1,6 @@
+@aps_rest_authentication_sample_HostAddress = http://localhost:5294
+
+GET {{aps_rest_authentication_sample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
