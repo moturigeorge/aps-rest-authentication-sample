@@ -12,7 +12,7 @@
 
 # Description
 
-This sample demonstrates the retreival of Autodesk APS 3legged authentication token using the Rest API: [Authentication (OAuth)](https://aps.autodesk.com/en/docs/oauth/v2/reference/http/)
+This sample demonstrates the retreival of Autodesk APS 3legged authentication token using the Rest API in C# .NET: [Authentication (OAuth)](https://aps.autodesk.com/en/docs/oauth/v2/reference/http/)
 
 
 # Thumbnail
